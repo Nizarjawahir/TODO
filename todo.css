@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(18, 171, 217);
+}
+.todo{
+    text-align: center;
+}
+input{
+    margin-right: 10px;
+}
+ul{
+    list-style: none;
+}
+li{
+    margin: 10px;
+}
+.delete{
+    margin-left: 8px;
+}
